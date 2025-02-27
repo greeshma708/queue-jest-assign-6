@@ -1,0 +1,33 @@
+/* Background color for the entire page */
+body {
+  background-color: #f0f8ff; /* Light blue background */
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Background color for the container */
+.container {
+  background-color: #ffffff; /* White background for the container */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Background color for each card */
+.card {
+  background-color: #978254; /* Light blue background for cards */
+  margin: 10px;
+  border: 1px solid #b3e5fc;
+  border-radius: 8px;
+}
+
+/* Background color for the like button */
+.btn-primary {
+  background-color: #882203; /* Blue background for the button */
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #003fb3; /* Darker blue on hover */
+}
